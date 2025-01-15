@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": "stable_release v1.0.10",
+    "version": "1.0.1",
     "url": "https://chattrix.free.nf/update/update_app.html",
     "notes": "- Improved chat performance\n - Bug fixes"
   },
