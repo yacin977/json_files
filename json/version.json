@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.0",
-    "url": "http://chattrix.free.nf/update/update_app.html",
+    "version": "stable_release v1.0.10",
+    "url": "https://chattrix.free.nf/update/update_app.html",
     "notes": "- Improved chat performance\n - Bug fixes"
   },
   "ios": {
     "version": "1.0.0",
-    "url": "http://chattrix.free.nf/update/update_app.html",
+    "url": "https://chattrix.free.nf/update/update_app.html",
     "notes": "- Improved chat performance\n- Bug fixes"
   }
 }
