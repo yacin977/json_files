@@ -1,8 +1,8 @@
 {
   "android": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://chattrix.free.nf/update/update_app.html",
-    "notes": "- Improved chat performance\n - Bug fixes"
+    "notes": "- Improved chat performance\n - we add block and report functions\n - we add country priority for user country\n - and we improve the style"
   },
   "ios": {
     "version": "1.0.0",
